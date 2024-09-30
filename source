@@ -1,0 +1,2 @@
+local ResidenceMassacreEsp = false -- If true then will for Residence Massacre it will enable esp instead of autofarm
+local ResidenceMassacreAutofarm = true -- if true then will enable autofarm for Residence Massacre
